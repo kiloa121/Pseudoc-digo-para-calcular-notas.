@@ -1,0 +1,1 @@
+# Pseudoc-digo-para-calcular-notas.
